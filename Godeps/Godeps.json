@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/XUJiahua/GoGoGo",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/YoungPioneers/blog4go",
+			"Comment": "v0.5.5",
+			"Rev": "0812b1b22b95452c8326134cb91d70d1146f9aa4"
+		}
+	]
+}
