@@ -10,6 +10,10 @@ go get ./... # 下载所有依赖的第三方库
 
 http_proxy=127.0.0.1:8080 go get # 加proxy的语法
 
+go build hello.go # 编译
+
+env GOOS=linux GOARCH=amd64 go build hello.go # 交叉编译
+
 ```
 
 ## 第三方库管理－godep使用
