@@ -1,5 +1,7 @@
 # GoGoGo
 
+Go项目的模版，减少重复配置
+
 ## Develop
 
 ```
